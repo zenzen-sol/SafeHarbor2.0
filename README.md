@@ -1,4 +1,4 @@
-# SafeHarbor 2.1
+# SafeHarbor 2.2
 Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 # Proposed Safe Harbor – Time-limited Exemption for Tokens.
