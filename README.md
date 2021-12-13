@@ -1,4 +1,4 @@
-# SafeHarbor 2.0
+# SafeHarbor 2.2
 Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 # Proposed Safe Harbor – Time-limited Exemption for Tokens.
@@ -13,7 +13,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 *However, for a network to mature into a functional or decentralized network that is not dependent upon a single person or group to carry out the essential managerial or entrepreneurial efforts, the Tokens must be distributed to and freely tradeable by potential users, programmers, and participants in the network.  The application of the federal securities laws to the primary distribution of Tokens and secondary transactions frustrates the network’s ability to achieve maturity and prevents Tokens sold as a security from functioning as non-securities on the network.*
 
-*Accordingly, this safe harbor is intended to provide Initial Development Teams with a three-year time period within which they can facilitate participation in, and the continued development of, a functional or decentralized network, exempt from the registration provisions of the federal securities laws so long as certain conditions are met.  The safe harbor is designed to protect Token purchasers by requiring disclosures tailored to the needs of the purchasers and preserving the application of the anti-fraud provisions of the federal securities laws to Token distributions by an Initial Development Team relying on the safe harbor.*
+*Accordingly, this safe harbor is intended to provide Initial Development Teams with a three-year time period within which they can facilitate participation in, and the continued development of, a functional or decentralized network, exempt from the registration provisions of the federal securities laws so long as certain conditions are met.  The SAFE HARBOR is designed to protect Token purchasers by requiring disclosures tailored to the needs of the purchasers and preserving the application of the anti-fraud provisions of the federal securities laws to Token distributions by an Initial Development Team relying on the safe harbor.*
 
 *By the conclusion of the three-year period, the Initial Development Team must determine whether Token transactions involve the offer or sale of a security.  Token transactions may not constitute securities transactions if the network has matured to a functioning or decentralized network.  The definition of Network Maturity is intended to provide clarity as to when a Token transaction should no longer be considered a security transaction but the analysis with respect to any particular network will require an evaluation of the particular facts and circumstances.*
 
@@ -83,7 +83,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (iii)  The website where disclosure required under paragraph (b) may be accessed.
 
-&ensp; &ensp; &ensp; &ensp; (iv)  An email address at which the Initial Development Team can be contacted.
+&ensp; &ensp; &ensp; &ensp; (iv)  An email address at which the Teddy Bear Team can be contacted.
 
 &ensp; &ensp; (2)  A notice of reliance must be filed with the Commission in electronic format through the Commission’s Electronic Data Gathering, Analysis, and Retrieval System (EDGAR) in accordance with EDGAR rules set forth in Regulation S-T.
 
