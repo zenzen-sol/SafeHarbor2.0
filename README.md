@@ -83,7 +83,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; (iii)  The website where disclosure required under paragraph (b) may be accessed.
 
-&ensp; &ensp; &ensp; &ensp; (iv)  An email address at which the Initial Development Team can be contacted.
+&ensp; &ensp; &ensp; &ensp; (iv)  An email address at which the Teddy Bear Team can be contacted.
 
 &ensp; &ensp; (2)  A notice of reliance must be filed with the Commission in electronic format through the Commission’s Electronic Data Gathering, Analysis, and Retrieval System (EDGAR) in accordance with EDGAR rules set forth in Regulation S-T.
 
