@@ -49,7 +49,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (D)  Sufficient information for a third party to create a tool for verifying the transaction history of the Token (e.g., the blockchain or distributed ledger).
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (E)  A URL to a block explorer.
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (E)  A hyperlink to a block explorer.
 
 &ensp; &ensp; &ensp; &ensp; (iv)  *Plan of Development.*  The current state and timeline for the development of the network to show how and when the Initial Development Team intends to achieve Network Maturity.
 
