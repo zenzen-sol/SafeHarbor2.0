@@ -1,4 +1,4 @@
-# SafeHarbor+2.0
+# SafeHarbor 2.0
 Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 # Proposed Safe Harbor – Time-Limited Exemption for Tokens.
@@ -19,7 +19,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 2.  *Rule 195 is not an exclusive safe harbor. A person who does not meet all of the applicable conditions of Rule 195 still may claim any other available exemption under the Securities Act of 1933 for the offer and sale of Tokens.*
 
-**(a)  Exemption.**  Except as expressly provided in paragraph (d) of this section, the Securities Act of 1933 does not apply to any offer, sale, or transaction involving a Token if the following conditions are satisfied by the Initial Development Team, as defined herein.
+(a)  Exemption.  Except as expressly provided in paragraph (d) of this section, the Securities Act of 1933 does not apply to any offer, sale, or transaction involving a Token if the following conditions are satisfied by the Initial Development Team, as defined herein.
 
 &ensp; &ensp; (1)  The Initial Development Team intends for the network on which the Token functions to reach Network Maturity within three years of the date of the first sale of Tokens;
 
@@ -49,7 +49,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (D)  Sufficient information for a third party to create a tool for verifying the transaction history of the Token (e.g., the blockchain or distributed ledger).
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (E)  A link to a block explorer.
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (E)  A URI to a block explorer.
 
 &ensp; &ensp; &ensp; &ensp; (iv)  *Plan of Development.*  The current state and timeline for the development of the network to show how and when the Initial Development Team intends to achieve Network Maturity.
 
@@ -147,7 +147,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; The definition is not meant to preclude network alterations achieved through a predetermined procedure in the source code that uses a consensus mechanism and approval of network participants.
 
-&ensp; &ensp; (3)  *Related Person.*  Related person means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediately family member of such persons.  
+&ensp; &ensp; (3)  *Related Person.*  Related person means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediate family member of such persons.  
 
 &ensp; &ensp; (4)  *Token.*  A Token is a digital representation of value or rights
 
