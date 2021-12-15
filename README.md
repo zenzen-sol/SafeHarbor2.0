@@ -1,7 +1,7 @@
-# SafeHarbor2.0
+# SafeHarbor+2.0
 Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
-# Proposed Safe Harbor – Time-limited Exemption for Tokens.
+# Proposed Safe Harbor – Time-Limited Exemption for Tokens.
 
 ***This potential safe harbor is not a rule, regulation, or statement of the Securities and Exchange Commission.  It cannot be relied on.  It does not necessarily reflect the views of the Securities and Exchange Commission or my fellow Commissioners.***
 
@@ -49,7 +49,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (D)  Sufficient information for a third party to create a tool for verifying the transaction history of the Token (e.g., the blockchain or distributed ledger).
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (E)  A hyperlink to a block explorer.
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (E)  A link to a block explorer.
 
 &ensp; &ensp; &ensp; &ensp; (iv)  *Plan of Development.*  The current state and timeline for the development of the network to show how and when the Initial Development Team intends to achieve Network Maturity.
 
