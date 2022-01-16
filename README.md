@@ -1,4 +1,4 @@
-# Safe Harbor 2.0
+# SafeHarbor2.0
 Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 # Proposed Safe Harbor – Time-limited Exemption for Tokens.
@@ -49,7 +49,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (D)  Sufficient information for a third party to create a tool for verifying the transaction history of the Token (e.g., the blockchain or distributed ledger).
 
-&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (E)  A URL to a block explorer.
+&ensp; &ensp; &ensp; &ensp; &ensp; &ensp; (E)  A hyperlink to a block explorer.
 
 &ensp; &ensp; &ensp; &ensp; (iv)  *Plan of Development.*  The current state and timeline for the development of the network to show how and when the Initial Development Team intends to achieve Network Maturity.
 
@@ -127,7 +127,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; (2)  The exit report must be filed with the Commission in electronic format through EDGAR in accordance with EDGAR rules set forth in Regulation S-T.
 
-**(g)  Transition Period for Trading Solutions.**  No trading platform shall be subject to the requirements of Section 6 of the Exchange Act due to activity related to the trading of Tokens subject to a determination pursuant to paragraph (f)(iii) of this section, provided that the trading platform prohibits such trading within six months of such determination. 
+**(g)  Transition Period for Trading Platforms.**  No trading platform shall be subject to the requirements of Section 6 of the Exchange Act due to activity related to the trading of Tokens subject to a determination pursuant to paragraph (f)(iii) of this section, provided that the trading platform prohibits such trading within six months of such determination. 
 
 **(h)  Tokens Previously Sold.**  An Initial Development Team that prior to the effective date of this rule sold Tokens pursuant to a valid exemption from registration or sold in violation of Section 5 of the Securities Act of 1933 as determined in a Commission order pursuant to Section 8A of the Securities Act of 1933 that does not identify any other violations of the federal securities laws may rely on this section if the conditions of paragraph (a) are satisfied.  The notice of reliance required by paragraph (c) of this section must be filed as soon as practicable. 
 
@@ -147,7 +147,7 @@ Potential Proposed Securities Act Rule 195. Time-limited exemption for Tokens.
 
 &ensp; &ensp; &ensp; &ensp; The definition is not meant to preclude network alterations achieved through a predetermined procedure in the source code that uses a consensus mechanism and approval of network participants.
 
-&ensp; &ensp; (3)  *Related Person.*  Related person means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediate family member of such persons.  
+&ensp; &ensp; (3)  *Related Person.*  Related person means the Initial Development Team, directors or advisors to the Initial Development Team, and any immediately family member of such persons.  
 
 &ensp; &ensp; (4)  *Token.*  A Token is a digital representation of value or rights
 
@@ -181,7 +181,7 @@ Issuers shall be exempt from the provisions of section 12(g) of the Act with res
 
 &ensp; &ensp; *New paragraph (j):*
 
-&ensp; &ensp; (j)  Any Token offered and sold in reliance on Rule 195 of the Securities Act.
+&ensp; &ensp; (j)  Any Token offered and sold in reliance on Rule 195 of the Securities Act of 1933.
 
 
 
